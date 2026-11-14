@@ -1,5 +1,7 @@
-# IMAGE-TRANSFORMATIONS
+# Ex:04 IMAGE-TRANSFORMATIONS
+**Developed By:** SABEEHA PARVEEN K
 
+**Register Number:** 21222523023
 ## Aim
 
 To perform image transformations such as Translation, Scaling, Shearing, Reflection, Rotation, and Cropping using OpenCV and Python.
@@ -35,10 +37,6 @@ Apply shearing, reflection, and rotation by defining the appropriate transformat
 Crop a specific region of the image and save the cropped image.
 
 ## Program
-
-**Developed By:** SABEEHA PARVEEN K
-
-**Register Number:** 21222523023
 
 ## i) Image Translation
 
